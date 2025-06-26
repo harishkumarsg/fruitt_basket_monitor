@@ -1,0 +1,6 @@
+flask==3.0.3
+ultralytics==8.0.120
+opencv-python
+tensorflow==2.13.0
+numpy
+pillow
